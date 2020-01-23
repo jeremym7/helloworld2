@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             //Pause to display hello world
             Console.WriteLine("Press any key to continue...");
+
+            //Display the Hello world message
             Console.WriteLine("Hello World!");
             Console.ReadKey(true);
         }
